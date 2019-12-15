@@ -1,0 +1,44 @@
+body {
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+h1 { 
+    color: #75108a;
+    font-size: 2rem; 
+    font-weight: normal;
+}
+
+h2 { 
+    color: #32c515;
+    font-size:  2em; 
+    font-weight: normal;
+}
+
+h3 { 
+    color: #182ffb;
+    font-size: 1vw; 
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+h4 { 
+    color: #4e0e57;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%; 
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+h5 { 
+    color: #282904;
+    font-size: 16px; 
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+h6 { 
+    color: #26776a;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-style: oblique;
+}
